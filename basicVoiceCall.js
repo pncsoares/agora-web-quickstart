@@ -6,13 +6,9 @@ let rtc = {
 };
 
 let options = {
-    // Pass your App ID here.
-    appId: "b354312fed8c4ed8b742a188b4db95cb",
-    // Set the channel name.
-    channel: "test",
-    // Pass your temp token here.
-    token: "007eJxTYNjEaHJSO+hV783nXUpaOR4HT77J0ri4iXPNEcu/j5V0lecpMCQZm5oYGxqlpaZYJJsAiSRzE6NEQwuLJJOUJEvT5KSVbxmTNe2Zk7dIXGJmZIBAEJ+FoSS1uISBAQCE/iB+",
-    // Set the user ID.
+    appId: "30b9f4f0c35942538a8f567fda992004",
+    token: null,
+    channel: "staff-car2",
     uid: 123456
 };
 
