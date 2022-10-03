@@ -6,10 +6,10 @@ let rtc = {
 };
 
 let options = {
-    appId: "30b9f4f0c35942538a8f567fda992004",
+    appId: "",
     token: null,
-    channel: "staff-car2",
-    uid: 123456
+    channel: "",
+    uid: ""
 };
 
 async function startBasicCall() {
